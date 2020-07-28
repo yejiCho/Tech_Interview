@@ -24,6 +24,10 @@
 ## database
 
 - database에서 index란?
+- join 이란?
+- ORM 이란?
+
+## operating system
 
 - 비동기와 동기에 대해서 설명해주세요.
 
