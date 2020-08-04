@@ -2,7 +2,7 @@
 
 ⚙️Technical interview preparation
 
-![개구리](https://github.com/yejiCho/Tech_Interview/blob/master/image/frog.jpg){: width="100" height="100"}
+![개구리](https://github.com/yejiCho/Tech_Interview/blob/master/image/frog.jpg){: width="300" height="300"){: .center}
 
 ## algorithm
 
