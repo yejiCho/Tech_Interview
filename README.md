@@ -2,6 +2,8 @@
 
 ⚙️Technical interview preparation
 
+![개구리](https://github.com/yejiCho/Tech_Interview/blob/master/image/frog.jpg)
+
 ## algorithm
 
 - stack
